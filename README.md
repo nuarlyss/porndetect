@@ -9,3 +9,6 @@ A plugin utilized c-core program to detect porn image and video.
 
 <h2>Imageclipper</h2>
 Tool to select image for haar-like features training.
+
+
+Rizqi Putri Nourma Budiarti
