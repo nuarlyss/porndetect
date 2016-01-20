@@ -1,0 +1,21 @@
+Porn-Detect
+by Sritrusta Sukaridhoto under GPL
+
+Dependency
+  libcv1, libhighgui1, libcvaux1 (OpenCV-1)
+
+Compile
+
+  # Make
+
+Run
+  # ./porndetect --cascade=porn1.xml <FILE-PORNONYA.jpg>
+
+Run - menampilkan hasil deteksi di layar
+  # ./porndetect --cascade=porn1.xml <FILE-PORNONYA.jpg> show
+
+Program ini juga bisa untuk capture live show lewat webcam, kalau mau coba sendiri
+ 
+
+
+Selamat mencoba :D

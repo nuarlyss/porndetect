@@ -1,0 +1,5 @@
+<!ENTITY porndetection.label "Porn Detection">
+<!ENTITY porndetectionContext.label "Porn Detection">
+<!ENTITY porndetectionContext.accesskey "Y">
+<!ENTITY porndetectionToolbar.label "Your Toolbar Button">
+<!ENTITY porndetectionToolbar.tooltip "This is your toolbar button!">

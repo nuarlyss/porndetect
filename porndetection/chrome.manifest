@@ -1,0 +1,5 @@
+content	porndetection	content/
+locale	porndetection	en-US	locale/en-US/
+skin	porndetection	classic/1.0	skin/
+overlay	chrome://browser/content/browser.xul	chrome://porndetection/content/firefoxOverlay.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://porndetection/skin/overlay.css

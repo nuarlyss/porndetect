@@ -1,0 +1,8 @@
+<!ENTITY prefwindow.title "Porn Detection preferences">
+<!ENTITY pane1.title "Porn Detection preferences">
+<!ENTITY checkboolpref.label "Autoload">
+<!ENTITY checkboolpref.accesskey "A">
+<!ENTITY intpref.label "An Integer Preference">
+<!ENTITY intpref.accesskey "I">
+<!ENTITY stringpref.label "A String Preference">
+<!ENTITY stringpref.accesskey "S">
